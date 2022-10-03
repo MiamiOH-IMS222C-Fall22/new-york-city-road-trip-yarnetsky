@@ -4,15 +4,60 @@ h1 {
   border-style: solid;
   border-color: blue;
   padding: 18px 18px 18px 18px;
-  margin: 20px 0 20px 200px;
+  margin: 20px 0 20px 20px;
+}
+
+h2 {
+  padding: 18px 18px 18px 18px;
+  margin: 10px 10px 20px 10px;
+}
+
+.eating-type h2 {
+  color: white;
+  background-color: blue;
+}
+
+.sights h2 {
+  color: white;
+  background-color: red;
 }
 
 p {
   padding: 20px 20px 20px 20px;
-  margin: 15px 10px 15px 10px;
-  font-weight: bold;
+  margin: 10px 10px 10px 10px;
 }
 
 .eating-type {
   border: 1px solid red;
+  padding: 20px 20px 20px 20px;
+  margin: 25px 10px 25px 10px;
+}
+
+.sights {
+  border: 1px solid blue;
+  padding: 20px 20px 20px 20px;
+  margin: 25px 10px 25px 10px;
+}
+
+.intro {
+  width: 60%;
+  border: 1px solid red;
+  background-color: bisque;
+  padding: 20px 20px 20px 20px;
+  margin: 50px auto 60px auto;
+  border-radius: 25px;
+  box-shadow: 10px 10px 10px 10px #ccc;
+}
+
+img.intro-image {
+  width: 100%;
+}
+
+main.container {
+  border: 1px solid red;
+  background-color: bisque;
+  padding: 20px 20px 20px 20px;
+  border-radius: 25px;
+  max-width: 960px;
+  margin: 2em auto;
 }
