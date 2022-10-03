@@ -14,5 +14,8 @@
     "workbench.layoutControl.type": "both",
     "workbench.editor.enablePreviewFromQuickOpen": false,
     "terminal.integrated.enablePersistentSessions": false,
-    "terminal.integrated.environmentChangesIndicator": "off"
+    "terminal.integrated.environmentChangesIndicator": "off",
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ]
 }

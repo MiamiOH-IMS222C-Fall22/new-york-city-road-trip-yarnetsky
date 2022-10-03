@@ -1,0 +1,17 @@
+h1 {
+  color: red;
+  border-width: 1px;
+  border-style: solid;
+  border-color: blue;
+  padding: 18px 18px 18px 18px;
+  margin: 20px 0 20px 200px;
+}
+
+p {
+  border: 1px solid red;
+  padding: 20px 20px 20px 20px;
+  margin: 15px 10px 15px 10px;
+  color: darkorange;
+  background-color: blue;
+  font-weight: bold;
+}
